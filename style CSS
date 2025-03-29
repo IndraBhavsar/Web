@@ -52,7 +52,7 @@ section {
 }
 
 .home-content img {
-  max-width: 300px;
+  max-width: 50px;
   border-radius: 10px;
   box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
 }
